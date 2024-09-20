@@ -7,11 +7,11 @@
 
 ~~Until the PR is merged, though, they're likely to change.~~
 
-**The new Context Template and Instruct Mode presets for all Mistral architectures have been merged to SillyTavern's Staging branch.** If you don't want to/can't update, you can get the new prompt template files [here.](https://github.com/SillyTavern/SillyTavern/tree/staging/default/content/presets)
+**The new Context Template and Instruct Mode presets for all Mistral architectures have been merged to SillyTavern's Staging branch.** If you don't want to/can't update, you can get the new prompt template files [here](https://github.com/SillyTavern/SillyTavern/tree/staging/default/content/presets) (in the `context` and `instruct` folders.)
 
-The new update to ST Staging introduced 3 new Mistral entries to both Context Template and Instruct Mode.
+The new update to SillyTavern Staging introduced 3 new Mistral entries to both Context Template and Instruct Mode.
 
-__***Use the following ST templates for the respective Mistral model architectures:***__
+__***Use the following SillyTavern templates for the respective Mistral model architectures:***__
 
 __Mistral V1:__
 Mistral 7B v1
