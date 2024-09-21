@@ -1,4 +1,4 @@
-# SillyTavern-Nemo-Templates
+# New Mistral Templates for SillyTavern
 ~~Corrected Context Template and Instruct Mode settings for SillyTavern.~~
 
 ~~Pandora from MistralAI [has opened a PR for SillyTavern](https://github.com/SillyTavern/SillyTavern/pull/2883) to add corrected templates that properly accommodate all of Mistral's models (as their tokenizer behavior is slightly different) but for Nemo in particular, these should be functional.~~
