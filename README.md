@@ -7,8 +7,7 @@
 
 ~~Until the PR is merged, though, they're likely to change.~~
 
-**The new Context Template and Instruct Mode presets for all Mistral architectures have been merged to SillyTavern's Staging branch.** If you don't want to/can't update, you can get the new prompt template files [here](https://github.com/SillyTavern/SillyTavern/tree/staging/default/content/presets) (in the `context` and `instruct` folders.)
-
+**The new Context Template and Instruct Mode presets for all Mistral architectures have been merged to SillyTavern's Staging branch.** The current versions of the templates are now hosted in this repository, for if you don't want to/can't update.
 The new update to SillyTavern Staging introduced 3 new Mistral entries to both Context Template and Instruct Mode.
 
 __***Use the following SillyTavern templates for the respective Mistral model architectures:***__
@@ -28,6 +27,6 @@ Mistral Large
 Pixtral
 
 __Mistral V3-Tekken:__
-Mistral Nemo.
+Mistral Nemo
 
-If you're using something based on Mistral 7B and you can't tell which version it is, then just use whichever one works better, I guess. Tell the maker of your model to add the `base_model` parameter in the YAML section of their model card, so that the HF model tree will work properly.
+If you're using something based on Mistral 7B and you can't tell which version it is, then just use whichever one works better, I guess. Tell the maker of your model to add the `base_model` parameter in the YAML section of their model card, so that HuggingFace's model tree will work properly.
