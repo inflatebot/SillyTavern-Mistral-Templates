@@ -13,20 +13,20 @@ The new update to SillyTavern Staging introduced 3 new Mistral entries to both C
 __***Use the following SillyTavern templates for the respective Mistral model architectures:***__
 
 __Mistral V1:__
-Mistral 7B v1
-Mistral 7B v2
-Mixtral 8x7B
+- Mistral 7B v1
+- Mistral 7B v2
+- Mixtral 8x7B
 
 __Mistral V2 & V3:__
-Mistral 7B v3
-Codestral
-Mixtral 8x22B
-Mistral Small
-Mistral Medium (incl. Miqu, probably)
-Mistral Large
-Pixtral
+- Mistral 7B v3
+- Codestral
+- Mixtral 8x22B
+- Mistral Small
+- Mistral Medium (incl. Miqu, probably)
+- Mistral Large
+- Pixtral
 
 __Mistral V3-Tekken:__
-Mistral Nemo
+- Mistral Nemo
 
 If you're using something based on Mistral 7B and you can't tell which version it is, then just use whichever one works better, I guess. Tell the maker of your model to add the `base_model` parameter in the YAML section of their model card, so that HuggingFace's model tree will work properly.
